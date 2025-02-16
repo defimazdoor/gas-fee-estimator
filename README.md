@@ -58,7 +58,7 @@ HTML + CSS + JavaScript – Frontend
 Etherscan API – Gas fee data
 💡 Contributing
 💙 Contributions are welcome! Feel free to submit your feedbacks. 
-Follow me on X: https://x.com/mazzysweb | https://x.com/0x_mazdoor
+Follow & Subscribe me on X: https://x.com/mazzysweb | https://x.com/0x_mazdoor
 
 Fork this repo
 Open an issue for suggestions
